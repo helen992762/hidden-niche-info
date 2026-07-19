@@ -25,4 +25,4 @@ See [PRIVACY.md](./PRIVACY.md).
 
 ## Contact
 
-kinhdx@gmail.com
+doxuankinh@gmail.com
