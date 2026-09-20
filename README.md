@@ -6,8 +6,11 @@ A personal, internal command-line research tool that helps its single user (the 
 
 - Searches public video metadata for candidate topic keywords (`search.list`).
 - Retrieves public video statistics, channel statistics, and channel uploads (`videos.list`, `channels.list`, `playlistItems.list`).
+- Reads public top-level comments on those videos (`commentThreads.list`) to find questions viewers are still asking, which indicate gaps in existing content.
 - Computes self-derived aggregate niche scores (supply, demand, competition).
 - Outputs reports as command-line text and local markdown files.
+
+The complete list of YouTube Data API endpoints the tool calls is exactly the five above: `search.list`, `videos.list`, `channels.list`, `playlistItems.list`, `commentThreads.list`.
 
 ## What it is NOT
 
