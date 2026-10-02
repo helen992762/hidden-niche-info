@@ -1,6 +1,6 @@
 # Privacy Policy — ytb-hidden-gems
 
-_Last updated: 2026-09-20_
+_Last updated: 2026-10-02_
 
 **ytb-hidden-gems** is an internal research tool with a single user — its developer. It is not distributed, has no end users, and is not public-facing.
 
@@ -12,12 +12,13 @@ _Last updated: 2026-09-20_
 ### Public comments
 
 - The tool reads the text of **public** top-level comments on public videos in order to detect questions viewers are asking about a topic. This is used only to measure how much of a topic is left unanswered.
-- The commenter's display name returned by the API is **discarded immediately** and is never stored, displayed, scored, or exported. Only the comment text and its public like count are used.
+- The commenter's display name returned by the API is **discarded immediately** and is never stored, displayed, scored, or exported. Only the comment text is used, to count how many comments are questions and which terms recur across at least three different questions. Reports never quote a comment.
 - Comment text is not attributed to anyone and is not linked to any identity in any report the tool produces.
 
 ## Personal data
 
 - The tool does **not** collect, store, process, or share any personal data. Commenter names and channel owner identities are not retained (see *Public comments* above).
+- Public channel titles appear in the local reports only as attribution next to a video or channel statistic, each linked back to YouTube. No other information about channel owners is collected.
 - No cookies, no tracking technologies, no advertising, no analytics on any person.
 
 ## Data retention
