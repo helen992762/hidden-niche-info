@@ -1,6 +1,8 @@
-# ytb-hidden-gems — Internal YouTube Niche Research Tool
+# Hidden Niche — Personal Content Niche Research Tool
 
-A personal, internal command-line research tool that helps its single user (the developer) plan their own YouTube content. It measures content supply and demand for candidate topics by reading **public** YouTube metadata through the official **YouTube Data API v3**.
+Hidden Niche is a personal, internal command-line research tool that helps its single user (the developer) plan their own video content. It measures content supply and demand for candidate topics by reading **public** video metadata through the official **YouTube Data API v3**.
+
+![Architecture and data flow](./architecture-diagram.png)
 
 ## What it does
 
@@ -21,7 +23,7 @@ The complete list of YouTube Data API endpoints the tool calls is exactly the fi
 
 ## Access
 
-Command-line only, running locally on the developer's machine. This repository page serves as the tool's public description page for YouTube API Services compliance review.
+Command-line only, running locally on the developer's machine. This repository page serves as the tool's public description page for the YouTube API Services compliance review.
 
 ## Privacy
 

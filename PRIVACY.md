@@ -1,8 +1,8 @@
-# Privacy Policy — ytb-hidden-gems
+# Privacy Policy — Hidden Niche
 
-_Last updated: 2026-10-04_
+_Last updated: 2026-10-09_
 
-**ytb-hidden-gems** is an internal research tool with a single user — its developer. It is not distributed, has no end users, and is not public-facing.
+**Hidden Niche** is an internal research tool with a single user — its developer. It is not distributed, has no end users, and is not public-facing.
 
 ## What the tool accesses
 
