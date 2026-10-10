@@ -23,11 +23,11 @@ The complete list of YouTube Data API endpoints the tool calls is exactly the fi
 
 ## Access
 
-Command-line only, running locally on the developer's machine. This repository page serves as the tool's public description page for the YouTube API Services compliance review.
+Command-line only, running locally on the developer's machine. This page serves as the tool's public description page for the YouTube API Services compliance review.
 
 ## Privacy
 
-See [PRIVACY.md](./PRIVACY.md).
+See the [Privacy Policy](./PRIVACY.md).
 
 ## Contact
 
